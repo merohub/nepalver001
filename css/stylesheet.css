@@ -68,6 +68,7 @@ a:active {
 	max-width:768px!important;
 	margin-left:auto!important;
 	margin-right:auto!important;
+	padding:10px;
 }
 
 ul.slides li{list-style:none;}
@@ -76,7 +77,7 @@ ul.slides li{list-style:none;}
 	max-width:768px!important;
 	margin-left:auto!important;
 	margin-right:auto!important;
-	margin-top:-17px;
+	margin-top:-15px;
 }
 #welcome {
 	margin-bottom:16px;
